@@ -19,7 +19,7 @@
 ### Клонировать репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/subscription-service.git
+   git clone https://github.com/Morgxth/WebRiseTask.git
    cd subscription-service
 ```
 
