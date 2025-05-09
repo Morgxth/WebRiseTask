@@ -36,7 +36,11 @@ docker-compose up --build
     PostgreSQL: localhost:5432 (если нужно подключение для разработки или отладки)
 
 ### API Документация
-   Пример использования API через curl:
+
+## Swagger info 
+http://localhost:8080/swagger-ui/index.html
+
+Пример использования API через curl:
 
 ## Создание пользователя
 POST /users
